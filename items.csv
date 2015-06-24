@@ -45,6 +45,10 @@ MDC Vacuum;Equipment;110025;"Flng, 6.0"", Blank REF# F600000";83;4
 MDC Vacuum;Equipment;110030;"Flng, 8"", Blank REF# F800000";135;2
 MDC Vacuum;Equipment;110032;"Flng, 10"", Blank REF# F1000000";298;1
 MDC Vacuum;Equipment;432000;"NudeIonizationGaugeTube, 2.75""Twin REF# BATT";390;1
+MDC Vacuum;Equipment;404000;"Tee, 1.33"" REF# 075-3";102;4
+MDC Vacuum;Equipment;404002;"Tee, 2.75"" REF# 150-3";128;4
+MDC Vacuum;Equipment;736001;"PVCHoseAdapter, NW16, .75""ID, Hose REF# K075-HPV";17;5
+MDC Vacuum;Equipment;728000;"PVCHoseAdapter, NW16, 24""Long REF# K075-PVC-24";48;20
 Sears Craftsman;Tools;00949540000P;540-piece Mechanics Tool Set;1066.99;1
 Sears Craftsman;Tools;00912004000P;6 Gallon 3 Peak HP Wet/Dry Vac;47.06;1
 Lowe's Kobalt;Tools;538545;40-in x 27-in 6-Drawer Ball-Bearing Stainless Steel Tool Cabinet;424.15;1
