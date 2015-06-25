@@ -133,16 +133,16 @@ Ted Pella;Equipment;17323;MESH BASKET, 3/4 GAL,;84.25;1
 Ted Pella;Equipment;17683;BRSN CPX2800H U/S CLNR W/HEAT;891.25;1
 Ted Pella;Equipment;22200-1;PERF.SHELF,CLEAR,12 X 12 X 1/4;55.85;4
 Ted Pella;Equipment;22204;DESICCATOR,CLEAR,12 X 12 X 24;758.5;1
-Ted Pella;;5029-3;CERAM TIP TWEEZER,STRAIGHT #73;52.9;5
-Ted Pella;;5049-SV;"REPL.ESD TEFL TIP TWZR 4"" WFR";31.5;5
-Ted Pella;;5367-50NM;PELCO PRO NM-SS TWZR SET;129.5;5
-Omega;;TFCP-010-50; PFA COVERED FINE GAGE 50'SP;16;1
-Omega;;SPCP-032-50; BARE THERMOCOUPLE WIRE, TP;23;1
-Omega;;SPCH-005-50; BARE THERMOCOUPLE WIRE, KP/EP;14;1
-Omega;;SPAL-005-50; BARE THERMOCOUPLE WIRE, KN;14;1
-Omega;;TFCP-032-50; PFA COVERED WIRE;42;1
-Omega;;CHAL-005; UNSHEATHED FINE GAGE T/C 5/PK;18;5
-Omega;;XC-116-25; NEXTEL SLEEVING;56.25;1
+Ted Pella;Equipment;5029-3;CERAM TIP TWEEZER,STRAIGHT #73;52.9;5
+Ted Pella;Equipment;5049-SV;"REPL.ESD TEFL TIP TWZR 4"" WFR";31.5;5
+Ted Pella;Equipment;5367-50NM;PELCO PRO NM-SS TWZR SET;129.5;5
+Omega;Supplies;TFCP-010-50; PFA COVERED FINE GAGE 50'SP;16;1
+Omega;Supplies;SPCP-032-50; BARE THERMOCOUPLE WIRE, TP;23;1
+Omega;Supplies;SPCH-005-50; BARE THERMOCOUPLE WIRE, KP/EP;14;1
+Omega;Supplies;SPAL-005-50; BARE THERMOCOUPLE WIRE, KN;14;1
+Omega;Supplies;TFCP-032-50; PFA COVERED WIRE;42;1
+Omega;Supplies;CHAL-005; UNSHEATHED FINE GAGE T/C 5/PK;18;5
+Omega;Supplies;XC-116-25; NEXTEL SLEEVING;56.25;1
 Fisher Scientific;Equipment;01-921-101;RANGER 3000 SCALE;508.8;1
 Fisher Scientific;Supplies;19-822-379;NON SKID BOOTIES X L 150 PR/CS;65.5;10
 Fisher Scientific;Supplies;18-999-4781;GPM MASK 500/CS;196.38;1
@@ -192,31 +192,31 @@ Amazon.com;Supplies;;National Brand Computation Notebook, 4 X 4 Quad, Brown, Gre
 Amazon.com;Supplies;;Brother Laminated Tape Black on White, 6mm (TZe211) - Retail Packaging;8.39;5
 Amazon.com;Supplies;;Brother Laminated Flexible ID Black on White 1/2 Inch Tape - Retail Packaging (TZeFX231) - Retail Packaging;10.99;5
 Amazon.com;Supplies;;Brother Laminated Flexible ID Black on White 1 Inch Tape - Retail Packaging (TZeFX251) - Retail Packaging;14.99;5
-Amazon.com;;;Avery Economy Clear Sheet Protectors, Acid Free, Box of 100 (75091);9.32;1
-Amazon.com;;;Avery Heavy-Duty Binder with 1 Inch One Touch EZD Ring, Blue, 1 Binder (79889);3.99;5
-Amazon.com;;;Officemate Heavy Duty 3 Hole Punch with Padded Handle, 40-Sheet Capacity, Black (90089);17.99;1
-Amazon.com;;;Kingston G2 USB 2.0 microSDHC Flash Memory Card Reader FCR-MRG2 (Black) ;3.95;5
-Amazon.com;;;SanDisk Ultra 64GB MicroSDXC Class 10 UHS Memory Card Speed Up To 30MB/s With Adapter - SDSDQUA-064G-U46A [Old Version];32.99;5
-Amazon.com;;;Oxford Blank Index Cards, 3 x 5 Inches, White, 10 Packs of 100 (30) ;7.37;5
-Amazon.com;;;HP 55X (CE255X) Black High Yield Original LaserJet Toner Cartridge ;183.99;1
-Amazon.com;;;HP P3015N LaserJet Enterprise Printer;409.95;1
-Amazon.com;;;Pentel Super Hi-Polymer Lead Refills, 0.5 mm, 90 Pieces (C25BPHB3-K6);4.22;5
-Amazon.com;;;Zebra Mechanical Pencil, Lead/Eraser Refillable, .5mm, Silver/Black, 2 Pack (54012);5.99;10
-Amazon.com;;;Scotch Magic Tape, 1/2 x 1296 Inches, Boxed, 3 Rolls (810H3);6.89;3
-Amazon.com;;;Scotch Magic Tape, 3/4 x 1000 Inches, 6-Count Package (810K6);11.98;2
-Amazon.com;;;Post-it Notes. 1 3/8 X 1 7/8 Inches, Canary Yellow, 12-Pads/Pack;5.98;5
-Amazon.com;;;Post-it Notes 3 x 3-Inches, Canary Yellow, 12-Pads/Pack;9.52;5
-Amazon.com;;;"Staples 8-Ream Case Multiuse Multipurpose Copy Fax Inkjet & Laser Printer Paper, 8 1/2"" x 11"" Letter, 94 Bright White, 20 lb., 4000 Sheets Total/Carton (1149611)";42.99;2
-Amazon.com;;;PaperPro Full Strip Standard office Staples, 5000/Box (1901);2.14;2
-Amazon.com;;;ACCO Paper Clips, Economy, Smooth, Jumbo, 100/Box, 10 Boxes (72580) ;6.1;1
-Amazon.com;;;Universal Small Binder Clips Black/Silver, 144 Each (10200VP) ;7.95;1
-Amazon.com;;;"Medium Binder Clips, Steel Wire, 5/8"" Cap., 1-1/4"" Wide, Black/Silver, 12/Pack, 36 Total";5.52;3
-Amazon.com;;;PaperPro One-Finger Prodigy Desktop Stapler, Full Strip, Black/Silver (1110) ;19.85;5
-Amazon.com;;;Scotch Desk Tape Dispenser, 1in. Core, Black ;3.57;5
-Amazon.com;;;Pilot Precise V5 Stick Rolling Ball Pens, Extra Fine Point, Red Ink, Dozen Box (35336);13.95;5
-Amazon.com;;;Pilot Precise V5 Needlepoint Rolling Ball Point Pen, Extra Fine, Black;18.31;5
-Alfa Aesar;;14512;Tungsten wire, 0.015mm (0.00059in) dia, 99.95% (metals basis);48.9;1
-Alfa Aesar;;10405;Tungsten wire, 0.025mm (0.001in) dia, 99.95% (metals basis);67.7;1
-Alfa Aesar;;40674;Tantalum wire, 0.05mm (0.002in) dia, annealed, 99.9% (metals basis);272;1
-Alfa Aesar;;10352;Tantalum foil, 0.127mm (0.005in) thick, annealed, 99.95% (metals basis);174;1
-Alfa Aesar;;335;Tantalum foil, 0.025mm (0.001in) thick, 99.997% (metals basis);257;1
+Amazon.com;Supplies;;Avery Economy Clear Sheet Protectors, Acid Free, Box of 100 (75091);9.32;1
+Amazon.com;Supplies;;Avery Heavy-Duty Binder with 1 Inch One Touch EZD Ring, Blue, 1 Binder (79889);3.99;5
+Amazon.com;Supplies;;Officemate Heavy Duty 3 Hole Punch with Padded Handle, 40-Sheet Capacity, Black (90089);17.99;1
+Amazon.com;Supplies;;Kingston G2 USB 2.0 microSDHC Flash Memory Card Reader FCR-MRG2 (Black) ;3.95;5
+Amazon.com;Supplies;;SanDisk Ultra 64GB MicroSDXC Class 10 UHS Memory Card Speed Up To 30MB/s With Adapter - SDSDQUA-064G-U46A [Old Version];32.99;5
+Amazon.com;Supplies;;Oxford Blank Index Cards, 3 x 5 Inches, White, 10 Packs of 100 (30) ;7.37;5
+Amazon.com;Equipment;;HP 55X (CE255X) Black High Yield Original LaserJet Toner Cartridge ;183.99;1
+Amazon.com;Equipment;;HP P3015N LaserJet Enterprise Printer;409.95;1
+Amazon.com;Supplies;;Pentel Super Hi-Polymer Lead Refills, 0.5 mm, 90 Pieces (C25BPHB3-K6);4.22;5
+Amazon.com;Supplies;;Zebra Mechanical Pencil, Lead/Eraser Refillable, .5mm, Silver/Black, 2 Pack (54012);5.99;10
+Amazon.com;Supplies;;Scotch Magic Tape, 1/2 x 1296 Inches, Boxed, 3 Rolls (810H3);6.89;3
+Amazon.com;Supplies;;Scotch Magic Tape, 3/4 x 1000 Inches, 6-Count Package (810K6);11.98;2
+Amazon.com;Supplies;;Post-it Notes. 1 3/8 X 1 7/8 Inches, Canary Yellow, 12-Pads/Pack;5.98;5
+Amazon.com;Supplies;;Post-it Notes 3 x 3-Inches, Canary Yellow, 12-Pads/Pack;9.52;5
+Amazon.com;Supplies;;"Staples 8-Ream Case Multiuse Multipurpose Copy Fax Inkjet & Laser Printer Paper, 8 1/2"" x 11"" Letter, 94 Bright White, 20 lb., 4000 Sheets Total/Carton (1149611)";42.99;2
+Amazon.com;Supplies;;PaperPro Full Strip Standard office Staples, 5000/Box (1901);2.14;2
+Amazon.com;Supplies;;ACCO Paper Clips, Economy, Smooth, Jumbo, 100/Box, 10 Boxes (72580) ;6.1;1
+Amazon.com;Supplies;;Universal Small Binder Clips Black/Silver, 144 Each (10200VP) ;7.95;1
+Amazon.com;Supplies;;"Medium Binder Clips, Steel Wire, 5/8"" Cap., 1-1/4"" Wide, Black/Silver, 12/Pack, 36 Total";5.52;3
+Amazon.com;Supplies;;PaperPro One-Finger Prodigy Desktop Stapler, Full Strip, Black/Silver (1110) ;19.85;5
+Amazon.com;Supplies;;Scotch Desk Tape Dispenser, 1in. Core, Black ;3.57;5
+Amazon.com;Supplies;;Pilot Precise V5 Stick Rolling Ball Pens, Extra Fine Point, Red Ink, Dozen Box (35336);13.95;5
+Amazon.com;Supplies;;Pilot Precise V5 Needlepoint Rolling Ball Point Pen, Extra Fine, Black;18.31;5
+Alfa Aesar;Supplies;14512;Tungsten wire, 0.015mm (0.00059in) dia, 99.95% (metals basis);48.9;1
+Alfa Aesar;Supplies;10405;Tungsten wire, 0.025mm (0.001in) dia, 99.95% (metals basis);67.7;1
+Alfa Aesar;Supplies;40674;Tantalum wire, 0.05mm (0.002in) dia, annealed, 99.9% (metals basis);272;1
+Alfa Aesar;Supplies;10352;Tantalum foil, 0.127mm (0.005in) thick, annealed, 99.95% (metals basis);174;1
+Alfa Aesar;Supplies;335;Tantalum foil, 0.025mm (0.001in) thick, 99.997% (metals basis);257;1
