@@ -1,11 +1,11 @@
 Vendor;Category;Type;Recurrence;Part No;Part Name;List Price;Quantity
-MDC Vacuum;UHV Supplies;Direct;;191000;"CopperGaskets, 1.33""Flg REF# GK-075";17;2
-MDC Vacuum;UHV Supplies;Direct;;191004;"CopperGaskets, 2.75"" REF# GK-150";22;5
-MDC Vacuum;UHV Supplies;Direct;;191013;"CopperGasket, 6""Flange REF# GK-400";62;2
-MDC Vacuum;UHV Supplies;Direct;;191017;"CopperGasket, 8""Flange REF# GK-600";73;2
-MDC Vacuum;UHV Supplies;Direct;;191019;"CopperGasket, 10""Flange REF# GK-800";125;2
-McMaster-Carr;UHV Supplies;Direct;;8980K78;"3105 Aluminum Foil, 0.012"" Thick, 20"" Wide, 10' Long      ";37.5;5
-McMaster-Carr;UHV Supplies;Direct;;8980K52;"3105 Aluminum Foil, 0.012"" Thick, 14"" Wide, 5' Long   ";21.52;5
+MDC Vacuum;UHV Supplies;Direct;Annual;191000;"CopperGaskets, 1.33""Flg REF# GK-075";17;2
+MDC Vacuum;UHV Supplies;Direct;Annual;191004;"CopperGaskets, 2.75"" REF# GK-150";22;5
+MDC Vacuum;UHV Supplies;Direct;Annual;191013;"CopperGasket, 6""Flange REF# GK-400";62;2
+MDC Vacuum;UHV Supplies;Direct;Annual;191017;"CopperGasket, 8""Flange REF# GK-600";73;2
+MDC Vacuum;UHV Supplies;Direct;Annual;191019;"CopperGasket, 10""Flange REF# GK-800";125;2
+McMaster-Carr;UHV Supplies;Direct;Annual;8980K78;"3105 Aluminum Foil, 0.012"" Thick, 20"" Wide, 10' Long      ";37.5;5
+McMaster-Carr;UHV Supplies;Direct;Annual;8980K52;"3105 Aluminum Foil, 0.012"" Thick, 14"" Wide, 5' Long   ";21.52;5
 Omega;UHV Supplies;Direct;;TFCP-010-50; PFA COVERED FINE GAGE 50'SP;16;1
 Omega;UHV Supplies;Direct;;SPCP-032-50; BARE THERMOCOUPLE WIRE, TP;23;1
 Omega;UHV Supplies;Direct;;SPCH-005-50; BARE THERMOCOUPLE WIRE, KP/EP;14;1
@@ -107,22 +107,22 @@ McMaster-Carr;Tools;Indirect;;52985A21;Miniature Precision Plastic-Handle Screwd
 McMaster-Carr;Tools;Indirect;;29835A104;DeWalt Cordless Drill, 12 Volt, 0-400/0-1450 rpm, 2 Batteries     ;157.91;1
 McMaster-Carr;Tools;Indirect;;38995A71;"Heavy Duty Precision Knife, 4-7/8"""" Long Handle""";4.41;5
 Amazon.com;Tools;Indirect;;;Maxworks 30204 3-1/2-Inch Nine LED Aluminum Flashlights, 8-Pack;13.97;2
-McMaster-Carr;Lab Supplies;Indirect;;7130K49;"Nylon Cable Tie, 18"" Long, 5"" Bundle Diameter, 120 lb. Break Strength, White, packs of 50     ";12.32;1
-McMaster-Carr;Lab Supplies;Indirect;;80005K1;"Nylon Cable Tie, 500-Piece Assortment, 4"", 6"", and 8"" Overall Lengths, White      ";17.1;1
+McMaster-Carr;Lab Supplies;Indirect;Annual;7130K49;"Nylon Cable Tie, 18"" Long, 5"" Bundle Diameter, 120 lb. Break Strength, White, packs of 50     ";12.32;1
+McMaster-Carr;Lab Supplies;Indirect;Annual;80005K1;"Nylon Cable Tie, 500-Piece Assortment, 4"", 6"", and 8"" Overall Lengths, White      ";17.1;1
 McMaster-Carr;Lab Supplies;Indirect;;12525T2;"Four Event Digital Pocket Timer, 100 Hour Maximum Time, 2-1/2"" High   ";24.22;3
 McMaster-Carr;Lab Supplies;Indirect;;6111T2;"Polyurethane Foam Clean Room Swab, 1/8"" Diameter x 13/32"" Long Tip, 2-13/16"" Overall Length, packs of 500     ";54.54;1
-McMaster-Carr;Lab Supplies;Indirect;;4896T6;"Clean Room Bag, Press-to-Close, 4 Mil, 4"" Width x 6"" Height, packs of 50      ";11.5;2
-McMaster-Carr;Lab Supplies;Indirect;;4896T7;"Clean Room Bag, Press-to-Close, 4 Mil, 6"" Width x 8"" Height, packs of 50      ";14;2
-McMaster-Carr;Lab Supplies;Indirect;;4896T8;"Clean Room Bag, Press-to-Close, 4 Mil, 8"" Width x 10"" Height, packs of 25     ";10.82;2
-McMaster-Carr;Lab Supplies;Indirect;;6896T65;"Peel-Off Disposable Sticky-Surface Mat, Frameless, 60 Layers, 18"" Wide x 36"" Long, 0.09"" Thick, Blue      ";48.84;2
+McMaster-Carr;Lab Supplies;Indirect;Annual;4896T6;"Clean Room Bag, Press-to-Close, 4 Mil, 4"" Width x 6"" Height, packs of 50      ";11.5;2
+McMaster-Carr;Lab Supplies;Indirect;Annual;4896T7;"Clean Room Bag, Press-to-Close, 4 Mil, 6"" Width x 8"" Height, packs of 50      ";14;2
+McMaster-Carr;Lab Supplies;Indirect;Annual;4896T8;"Clean Room Bag, Press-to-Close, 4 Mil, 8"" Width x 10"" Height, packs of 25     ";10.82;2
+McMaster-Carr;Lab Supplies;Indirect;Annual;6896T65;"Peel-Off Disposable Sticky-Surface Mat, Frameless, 60 Layers, 18"" Wide x 36"" Long, 0.09"" Thick, Blue      ";48.84;2
 McMaster-Carr;Lab Supplies;Indirect;;6334K41;Multi-Color Heat-Shrink Tubing Assortment, 133-Piece      ;75.54;1
 McMaster-Carr;Lab Supplies;Indirect;;5155T21;"Laboratory Clear Tygon PVC Tubing, 3/16"" ID, 1/4"" OD, 1/32"" Wall Thickness, 50 ft. Length     ";35.5;3
 McMaster-Carr;Lab Supplies;Indirect;;76255A41;"Packaging Tape, Heavy Duty, 2"" Wide x 60 Yds, .003"" Thick, Clear, packs of 36     ";7.92;36
-McMaster-Carr;Lab Supplies;Indirect;;43005T2;"Opaque White Carboy, 2-1/2 Gallon, 10 Liter, 9-5/8"" x 9-3/4"" Base, 7-1/4"" High    ";20.52;5
+McMaster-Carr;Lab Supplies;Indirect;Annual;43005T2;"Opaque White Carboy, 2-1/2 Gallon, 10 Liter, 9-5/8"" x 9-3/4"" Base, 7-1/4"" High    ";20.52;5
 McMaster-Carr;Lab Supplies;Indirect;;38995A79;Precision Knife Replacement Blades, #2, Sharp Angle for Cutting Medium/Heavy Material, packs of 100;27.58;1
-Fisher Scientific;Lab Supplies;Indirect;;19-822-379;NON SKID BOOTIES X L 150 PR/CS;65.5;10
-Fisher Scientific;Lab Supplies;Indirect;;18-999-4781;GPM MASK 500/CS;196.38;1
-Fisher Scientific;Lab Supplies;Indirect;;19-098-919;BOUFFANT 21IN WH SC 1000/CS;136.66;1
+Fisher Scientific;Lab Supplies;Indirect;Annual;19-822-379;NON SKID BOOTIES X L 150 PR/CS;65.5;10
+Fisher Scientific;Lab Supplies;Indirect;Annual;18-999-4781;GPM MASK 500/CS;196.38;1
+Fisher Scientific;Lab Supplies;Indirect;Annual;19-098-919;BOUFFANT 21IN WH SC 1000/CS;136.66;1
 Fisher Scientific;Lab Supplies;Indirect;;19-813-470;LABCOAT 5SNAP NO PKT 4X 30/CS;290.01;1
 Fisher Scientific;Lab Supplies;Indirect;;17-988-107;SLEEVE ISO BULK 100/CS;188.31;1
 Fisher Scientific;Lab Supplies;Indirect;;02-540K;BEAKER GRIFFIN 250ML 12/PK (case of 4 pk);204.15;1
@@ -133,13 +133,13 @@ Fisher Scientific;Lab Supplies;Indirect;;10-500-9;HD UTILITY FUNNEL 150-159 3/PK
 Fisher Scientific;Lab Supplies;Indirect;;16-000-130;DETOJET CLNR CS 12X1 QUARTS;27.74;1
 Fisher Scientific;Lab Supplies;Indirect;;19-160-0097;POLYIMIDE CR TAPE-1/8 X 36YD;14.84;5
 Fisher Scientific;Lab Supplies;Indirect;;19-160-0098;POLYIMIDE CR TAPE-1/4 X 36YD;18;5
-Fisher Scientific;Lab Supplies;Indirect;;18-324;ALPHAWIPE 12INX12IN 75PK (case of 10 pk);828.33;1
+Fisher Scientific;Lab Supplies;Indirect;Annual;18-324;ALPHAWIPE 12INX12IN 75PK (case of 10 pk);828.33;1
 Amazon.com;Lab Supplies;Indirect;;;Expo Original Dry Erase Markers, Chisel Tip, 12-Pack, Red;9;1
 Amazon.com;Lab Supplies;Indirect;;;Expo 2 Low-Odor Dry Erase Markers, Chisel Tip, 12-Pack, Blue;7.39;1
 Amazon.com;Lab Supplies;Indirect;;;Expo 2 Low-Odor Dry Erase Markers, Chisel Tip, 12-Pack, Black;7.25;1
 Amazon.com;Lab Supplies;Indirect;;;Expo Whiteboard / Dry Erase Board Soft Pile Eraser, 5 1/8-inch;2.47;3
-Amazon.com;Lab Supplies;Indirect;;;"MAPA TRIonic E-194 Tri-Polymer Glove, Chemical Resistant, 0.020"" Thickness, 14"" Length, Size 10, Non Pigmented (Pack of 12 Pairs)";54.97;4
-Amazon.com;Lab Supplies;Indirect;;;Halyard Health 55083 PURPLE NITRILE Exam Glove, Powder Free, Disposable, Large, Purple (Case of 1000);89.2;1
+Amazon.com;Lab Supplies;Indirect;Annual;;"MAPA TRIonic E-194 Tri-Polymer Glove, Chemical Resistant, 0.020"" Thickness, 14"" Length, Size 10, Non Pigmented (Pack of 12 Pairs)";54.97;4
+Amazon.com;Lab Supplies;Indirect;Annual;;Halyard Health 55083 PURPLE NITRILE Exam Glove, Powder Free, Disposable, Large, Purple (Case of 1000);89.2;1
 Amazon.com;Lab Supplies;Indirect;;;MOLY PLATE 37008 Anti-Seize Compound with Molydbenum Disulfide in a Non Melting Carrier, 8 oz., Black, Paste;6.85;1
 Amazon.com;Lab Supplies;Indirect;;;Sharpie Fine Point Permanent Markers, Box of 12 Markers, Black (30001);6.48;2
 Amazon.com;Lab Supplies;Indirect;;;Sharpie Permanent Markers, Fine Point, Metallic, 2 Pack (39108PP);3.69;10
@@ -148,12 +148,12 @@ Amazon.com;Lab Supplies;Indirect;;;EBL® 600mAh 9 Volt Li-ion Rechargeable 9V Ba
 Amazon.com;Lab Supplies;Indirect;;;AmazonBasics AAA Rechargeable Batteries (12-Pack);18.57;2
 Amazon.com;Lab Supplies;Indirect;;;AmazonBasics AA Rechargeable Batteries (16-Pack);26.69;1
 Amazon.com;Lab Supplies;Indirect;;;"Purus 08NBPCI-8.5X11-L Spiral Clean Image Notebook, 11"" Length x 8.5"" Width (10 books Per Case)";86.34;1
-Amazon.com;Lab Supplies;Indirect;;;National Brand Computation Notebook, 4 X 4 Quad, Brown, Green Paper, 11.75 x 9.25 Inches, 75 Sheets (43648);9.17;10
-Amazon.com;Lab Supplies;Indirect;;;Brother Laminated Tape Black on White, 6mm (TZe211) - Retail Packaging;8.39;5
-Amazon.com;Lab Supplies;Indirect;;;Brother Laminated Flexible ID Black on White 1/2 Inch Tape - Retail Packaging (TZeFX231) - Retail Packaging;10.99;5
-Amazon.com;Lab Supplies;Indirect;;;Brother Laminated Flexible ID Black on White 1 Inch Tape - Retail Packaging (TZeFX251) - Retail Packaging;14.99;5
-Amazon.com;Lab Supplies;Indirect;;;Avery Economy Clear Sheet Protectors, Acid Free, Box of 100 (75091);9.32;1
-Amazon.com;Lab Supplies;Indirect;;;Avery Heavy-Duty Binder with 1 Inch One Touch EZD Ring, Blue, 1 Binder (79889);3.99;5
+Amazon.com;Lab Supplies;Indirect;Annual;;National Brand Computation Notebook, 4 X 4 Quad, Brown, Green Paper, 11.75 x 9.25 Inches, 75 Sheets (43648);9.17;10
+Amazon.com;Lab Supplies;Indirect;Annual;;Brother Laminated Tape Black on White, 6mm (TZe211) - Retail Packaging;8.39;5
+Amazon.com;Lab Supplies;Indirect;Annual;;Brother Laminated Flexible ID Black on White 1/2 Inch Tape - Retail Packaging (TZeFX231) - Retail Packaging;10.99;5
+Amazon.com;Lab Supplies;Indirect;Annual;;Brother Laminated Flexible ID Black on White 1 Inch Tape - Retail Packaging (TZeFX251) - Retail Packaging;14.99;5
+Amazon.com;Lab Supplies;Indirect;Annual;;Avery Economy Clear Sheet Protectors, Acid Free, Box of 100 (75091);9.32;1
+Amazon.com;Lab Supplies;Indirect;Annual;;Avery Heavy-Duty Binder with 1 Inch One Touch EZD Ring, Blue, 1 Binder (79889);3.99;5
 Amazon.com;Lab Supplies;Indirect;;;Kingston G2 USB 2.0 microSDHC Flash Memory Card Reader FCR-MRG2 (Black) ;3.95;5
 Amazon.com;Lab Supplies;Indirect;;;SanDisk Ultra 64GB MicroSDXC Class 10 UHS Memory Card Speed Up To 30MB/s With Adapter - SDSDQUA-064G-U46A [Old Version];32.99;5
 Alfa Aesar;Lab Supplies;Indirect;;14512;Tungsten wire, 0.015mm (0.00059in) dia, 99.95% (metals basis);48.9;1
@@ -199,24 +199,24 @@ Amazon.com;Lab Equipment;Indirect;;;Brother PTD400AD Label Maker With AC Adapter
 Amazon.com;Lab Equipment;Indirect;;;Nikon D7100 24.1 MP DX-Format CMOS Digital SLR with 18-140mm f/3.5-5.6G ED VR AF-S DX NIKKOR Zoom Lens;1196.95;1
 Amazon.com;Lab Equipment;Indirect;;;AmScope ZM-4TW3-FOR-8M Digital Professional Trinocular Stereo Zoom Microscope, EW10x and EW25x Eyepieces, 2X-225X Magnification, 0.67X-4.5X Zoom Objective, Fiber-Optic Ring Light, Double-Arm Boom Stand, 110V-120V, Includes 0.3x and 2.0x Barlow Lenses, 8MP Camera with Reduction Lens, and Software;1699;1
 Amazon.com;Lab Equipment;Indirect;;;EBL® 12 Bay LCD AA AAA 9V Charger for Rechargeable Batteries [New Released on Big Sale];29.99;3
-Amazon.com;Office Supplies;Indirect;;;Smead File Folder, Reinforced 1/3-Cut Tab Center Position, Letter Size, Manila, 100 Per Box (10336);16.47;2
+Amazon.com;Office Supplies;Indirect;Annual;;Smead File Folder, Reinforced 1/3-Cut Tab Center Position, Letter Size, Manila, 100 Per Box (10336);16.47;2
 Amazon.com;Office Supplies;Indirect;;;Pendaflex Essentials Hanging Folders, Letter Size, Gray, 25 per Box (81604);12.36;10
 Amazon.com;Office Supplies;Indirect;;;Oxford Blank Index Cards, 3 x 5 Inches, White, 10 Packs of 100 (30) ;7.37;5
-Amazon.com;Office Supplies;Indirect;;;HP 55X (CE255X) Black High Yield Original LaserJet Toner Cartridge ;183.99;1
-Amazon.com;Office Supplies;Indirect;;;Pentel Super Hi-Polymer Lead Refills, 0.5 mm, 90 Pieces (C25BPHB3-K6);4.22;5
-Amazon.com;Office Supplies;Indirect;;;Zebra Mechanical Pencil, Lead/Eraser Refillable, .5mm, Silver/Black, 2 Pack (54012);5.99;10
-Amazon.com;Office Supplies;Indirect;;;Scotch Magic Tape, 1/2 x 1296 Inches, Boxed, 3 Rolls (810H3);6.89;3
-Amazon.com;Office Supplies;Indirect;;;Scotch Magic Tape, 3/4 x 1000 Inches, 6-Count Package (810K6);11.98;2
-Amazon.com;Office Supplies;Indirect;;;Post-it Notes. 1 3/8 X 1 7/8 Inches, Canary Yellow, 12-Pads/Pack;5.98;5
-Amazon.com;Office Supplies;Indirect;;;Post-it Notes 3 x 3-Inches, Canary Yellow, 12-Pads/Pack;9.52;5
-Amazon.com;Office Supplies;Indirect;;;"Staples 8-Ream Case Multiuse Multipurpose Copy Fax Inkjet & Laser Printer Paper, 8 1/2"" x 11"" Letter, 94 Bright White, 20 lb., 4000 Sheets Total/Carton (1149611)";42.99;2
-Amazon.com;Office Supplies;Indirect;;;PaperPro Full Strip Standard office Staples, 5000/Box (1901);2.14;2
-Amazon.com;Office Supplies;Indirect;;;ACCO Paper Clips, Economy, Smooth, Jumbo, 100/Box, 10 Boxes (72580) ;6.1;1
-Amazon.com;Office Supplies;Indirect;;;Universal Small Binder Clips Black/Silver, 144 Each (10200VP) ;7.95;1
-Amazon.com;Office Supplies;Indirect;;;"Medium Binder Clips, Steel Wire, 5/8"" Cap., 1-1/4"" Wide, Black/Silver, 12/Pack, 36 Total";5.52;3
+Amazon.com;Office Supplies;Indirect;Annual;;HP 55X (CE255X) Black High Yield Original LaserJet Toner Cartridge ;183.99;1
+Amazon.com;Office Supplies;Indirect;Annual;;Pentel Super Hi-Polymer Lead Refills, 0.5 mm, 90 Pieces (C25BPHB3-K6);4.22;5
+Amazon.com;Office Supplies;Indirect;Annual;;Zebra Mechanical Pencil, Lead/Eraser Refillable, .5mm, Silver/Black, 2 Pack (54012);5.99;10
+Amazon.com;Office Supplies;Indirect;Annual;;Scotch Magic Tape, 1/2 x 1296 Inches, Boxed, 3 Rolls (810H3);6.89;3
+Amazon.com;Office Supplies;Indirect;Annual;;Scotch Magic Tape, 3/4 x 1000 Inches, 6-Count Package (810K6);11.98;2
+Amazon.com;Office Supplies;Indirect;Annual;;Post-it Notes. 1 3/8 X 1 7/8 Inches, Canary Yellow, 12-Pads/Pack;5.98;5
+Amazon.com;Office Supplies;Indirect;Annual;;Post-it Notes 3 x 3-Inches, Canary Yellow, 12-Pads/Pack;9.52;5
+Amazon.com;Office Supplies;Indirect;Annual;;"Staples 8-Ream Case Multiuse Multipurpose Copy Fax Inkjet & Laser Printer Paper, 8 1/2"" x 11"" Letter, 94 Bright White, 20 lb., 4000 Sheets Total/Carton (1149611)";42.99;2
+Amazon.com;Office Supplies;Indirect;Annual;;PaperPro Full Strip Standard office Staples, 5000/Box (1901);2.14;2
+Amazon.com;Office Supplies;Indirect;Annual;;ACCO Paper Clips, Economy, Smooth, Jumbo, 100/Box, 10 Boxes (72580) ;6.1;1
+Amazon.com;Office Supplies;Indirect;Annual;;Universal Small Binder Clips Black/Silver, 144 Each (10200VP) ;7.95;1
+Amazon.com;Office Supplies;Indirect;Annual;;"Medium Binder Clips, Steel Wire, 5/8"" Cap., 1-1/4"" Wide, Black/Silver, 12/Pack, 36 Total";5.52;3
 Amazon.com;Office Supplies;Indirect;;;PaperPro One-Finger Prodigy Desktop Stapler, Full Strip, Black/Silver (1110) ;19.85;5
 Amazon.com;Office Supplies;Indirect;;;Scotch Desk Tape Dispenser, 1in. Core, Black ;3.57;5
-Amazon.com;Office Supplies;Indirect;;;Pilot Precise V5 Stick Rolling Ball Pens, Extra Fine Point, Red Ink, Dozen Box (35336);13.95;5
-Amazon.com;Office Supplies;Indirect;;;Pilot Precise V5 Needlepoint Rolling Ball Point Pen, Extra Fine, Black;18.31;5
+Amazon.com;Office Supplies;Indirect;Annual;;Pilot Precise V5 Stick Rolling Ball Pens, Extra Fine Point, Red Ink, Dozen Box (35336);13.95;5
+Amazon.com;Office Supplies;Indirect;Annual;;Pilot Precise V5 Needlepoint Rolling Ball Point Pen, Extra Fine, Black;18.31;5
 Amazon.com;Office Equipment;Indirect;;;Officemate Heavy Duty 3 Hole Punch with Padded Handle, 40-Sheet Capacity, Black (90089);17.99;1
 Amazon.com;Office Equipment;Indirect;;;HP P3015N LaserJet Enterprise Printer;409.95;1
