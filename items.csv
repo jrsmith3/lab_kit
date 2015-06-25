@@ -69,21 +69,21 @@ McMaster-Carr;Tools;2042A72;"High-Accuracy Inch Ruler, 6"" Length, 3/4"" Width, 
 McMaster-Carr;Tools;7093K82;Fluke Multimeter, Average Sensing AC Calculation, Model 77Iv      ;319.99;1
 McMaster-Carr;Tools;6927K42;"Patch Cord, Alligator Clip x Banana Plug, Black, 48"" Length   ";7.85;10
 McMaster-Carr;Tools;6927K96;"Patch Cord, Double Banana Plug x 2 Retractable Hooks, Black, 48"" Length   ";25.59;5
-McMaster-Carr;Supplies;12525T2;"Four Event Digital Pocket Timer, 100 Hour Maximum Time, 2-1/2"" High   ";24.22;3
-McMaster-Carr;Equipment;6938K67;"Test Lead Holder, 14 Slots, .21"" Maximum Cable Thickness      ";14.98;1
-McMaster-Carr;Supplies;6111T2;"Polyurethane Foam Clean Room Swab, 1/8"" Diameter x 13/32"" Long Tip, 2-13/16"" Overall Length, packs of 500     ";54.54;1
+McMaster-Carr;Lab Supplies;12525T2;"Four Event Digital Pocket Timer, 100 Hour Maximum Time, 2-1/2"" High   ";24.22;3
+McMaster-Carr;Lab Equipment;6938K67;"Test Lead Holder, 14 Slots, .21"" Maximum Cable Thickness      ";14.98;1
+McMaster-Carr;Lab Supplies;6111T2;"Polyurethane Foam Clean Room Swab, 1/8"" Diameter x 13/32"" Long Tip, 2-13/16"" Overall Length, packs of 500     ";54.54;1
 McMaster-Carr;Tools;8464A91;"Pivoting Vise, Weighted Base, 1-1/2"" Jaw Width    ";112.91;1
-McMaster-Carr;Supplies;4896T6;"Clean Room Bag, Press-to-Close, 4 Mil, 4"" Width x 6"" Height, packs of 50      ";11.5;2
-McMaster-Carr;Supplies;4896T7;"Clean Room Bag, Press-to-Close, 4 Mil, 6"" Width x 8"" Height, packs of 50      ";14;2
-McMaster-Carr;Supplies;4896T8;"Clean Room Bag, Press-to-Close, 4 Mil, 8"" Width x 10"" Height, packs of 25     ";10.82;2
-McMaster-Carr;Equipment;8970T53;Standard Vertical File Cabinet, Letter Size with 4 Drawers, Beige     ;236.33;1
-McMaster-Carr;Equipment;45955T93;"Heavy Duty Coated-Steel Wire Shelving, Mobile, Overall Size 36"" Wide x 75"" High x 18"" Deep, Gray      ";330.49;2
-McMaster-Carr;Equipment;45955T11;"Extra Shelf 36"" Wide x 18"" Deep, Gray, for Heavy Duty Coated-Steel Wire Shelving      ";57.47;8
-McMaster-Carr;Supplies;6896T65;"Peel-Off Disposable Sticky-Surface Mat, Frameless, 60 Layers, 18"" Wide x 36"" Long, 0.09"" Thick, Blue      ";48.84;2
-McMaster-Carr;Supplies;6334K41;Multi-Color Heat-Shrink Tubing Assortment, 133-Piece      ;75.54;1
-McMaster-Carr;Supplies;5155T21;"Laboratory Clear Tygon PVC Tubing, 3/16"" ID, 1/4"" OD, 1/32"" Wall Thickness, 50 ft. Length     ";35.5;3
+McMaster-Carr;Lab Supplies;4896T6;"Clean Room Bag, Press-to-Close, 4 Mil, 4"" Width x 6"" Height, packs of 50      ";11.5;2
+McMaster-Carr;Lab Supplies;4896T7;"Clean Room Bag, Press-to-Close, 4 Mil, 6"" Width x 8"" Height, packs of 50      ";14;2
+McMaster-Carr;Lab Supplies;4896T8;"Clean Room Bag, Press-to-Close, 4 Mil, 8"" Width x 10"" Height, packs of 25     ";10.82;2
+McMaster-Carr;Lab Equipment;8970T53;Standard Vertical File Cabinet, Letter Size with 4 Drawers, Beige     ;236.33;1
+McMaster-Carr;Lab Equipment;45955T93;"Heavy Duty Coated-Steel Wire Shelving, Mobile, Overall Size 36"" Wide x 75"" High x 18"" Deep, Gray      ";330.49;2
+McMaster-Carr;Lab Equipment;45955T11;"Extra Shelf 36"" Wide x 18"" Deep, Gray, for Heavy Duty Coated-Steel Wire Shelving      ";57.47;8
+McMaster-Carr;Lab Supplies;6896T65;"Peel-Off Disposable Sticky-Surface Mat, Frameless, 60 Layers, 18"" Wide x 36"" Long, 0.09"" Thick, Blue      ";48.84;2
+McMaster-Carr;Lab Supplies;6334K41;Multi-Color Heat-Shrink Tubing Assortment, 133-Piece      ;75.54;1
+McMaster-Carr;Lab Supplies;5155T21;"Laboratory Clear Tygon PVC Tubing, 3/16"" ID, 1/4"" OD, 1/32"" Wall Thickness, 50 ft. Length     ";35.5;3
 McMaster-Carr;Tools;7584A43;"Hand-Held Dispenser for Packaging Tape, Heavy Duty, with One 2"" Wide Roll of Tape     ";24.19;1
-McMaster-Carr;Supplies;76255A41;"Packaging Tape, Heavy Duty, 2"" Wide x 60 Yds, .003"" Thick, Clear, packs of 36     ";7.92;36
+McMaster-Carr;Lab Supplies;76255A41;"Packaging Tape, Heavy Duty, 2"" Wide x 60 Yds, .003"" Thick, Clear, packs of 36     ";7.92;36
 McMaster-Carr;Tools;6936K61;"Patch Cord, BNC Male Plug on each End, 48"" Length   4  6 in 2 weeks    ";21.72;10
 McMaster-Carr;Tools;6934K73;"Patch Cord, BNC Plug x 2 Retractable Hooks, 24"" Length    ";30.37;5
 McMaster-Carr;Tools;20095A31;Universal Caliper Accessory Kit   ;42.4;1
@@ -94,7 +94,7 @@ McMaster-Carr;Tools;6112A12;"Stubby Short-Arm Ball-Point Hex L-Key Set, 13 PC: .
 McMaster-Carr;Tools;5544A26;"3/8"" Square Drive Socket, 12-Point Standard, 1/4"" Size, 1-3/32"" Overall Length, Chrome Finish     ";4.76;1
 McMaster-Carr;Tools;5459A52;"70 Degree Offset Box Wrench, 12 PT, 1/4"" x 5/16""      ";14.96;1
 McMaster-Carr;Tools;6755A12;"Single Compartment Plastic Storage Box, 14-3/8"" Length x 8"" Width x 7"" Height Overall, Gray   ";17.99;4
-McMaster-Carr;Supplies;43005T2;"Opaque White Carboy, 2-1/2 Gallon, 10 Liter, 9-5/8"" x 9-3/4"" Base, 7-1/4"" High    ";20.52;5
+McMaster-Carr;Lab Supplies;43005T2;"Opaque White Carboy, 2-1/2 Gallon, 10 Liter, 9-5/8"" x 9-3/4"" Base, 7-1/4"" High    ";20.52;5
 McMaster-Carr;Tools;7242A25;"Premium Combination Wrench, 12 Point, Long, 1-1/4"" Size, 17-1/16"" Long, Black Finish      ";45.48;1
 McMaster-Carr;Tools;7294K17;Plier-Nose Wire Stripper for 14-8 AWG Solid/16-8 AWG Stranded     ;21.23;1
 McMaster-Carr;Tools;6733A15;"Folding Utility Knife, Aluminum Handle, 4-1/8"" Closed Length      ";12.76;2
@@ -114,10 +114,10 @@ McMaster-Carr;Tools;6986A11;"Flexible/Stiff Combination Magnetic Retriever, 18""
 McMaster-Carr;Tools;52985A23;Miniature Precision Plastic-Handle Screwdriver, 4 Piece Phillips Set      ;16.99;1
 McMaster-Carr;Tools;52985A21;Miniature Precision Plastic-Handle Screwdriver, 6 Piece Slotted Set   ;22.33;1
 McMaster-Carr;Tools;29835A104;DeWalt Cordless Drill, 12 Volt, 0-400/0-1450 rpm, 2 Batteries     ;157.91;1
-McMaster-Carr;Supplies;9210T601;Comfort-Fit Wraparound Safety Glasses, Clear Fog-Free Lens, Black Frame   ;9.4;10
-McMaster-Carr;Equipment;4795T11;"30"" Wide Drawer Cabinet, Full Height, 7 Drawers, Blue     ";1597.74;1
+McMaster-Carr;Lab Equipment;9210T601;Comfort-Fit Wraparound Safety Glasses, Clear Fog-Free Lens, Black Frame   ;9.4;10
+McMaster-Carr;Lab Equipment;4795T11;"30"" Wide Drawer Cabinet, Full Height, 7 Drawers, Blue     ";1597.74;1
 McMaster-Carr;Tools;38995A71;"Heavy Duty Precision Knife, 4-7/8"""" Long Handle""";4.41;5
-McMaster-Carr;Supplies;38995A79;Precision Knife Replacement Blades, #2, Sharp Angle for Cutting Medium/Heavy Material, packs of 100;27.58;1
+McMaster-Carr;Lab Supplies;38995A79;Precision Knife Replacement Blades, #2, Sharp Angle for Cutting Medium/Heavy Material, packs of 100;27.58;1
 Grainger;Lab Equipment;5YN07;AKRO-MILS Container,15-3/4 In. L,11-3/4 In. W,Gray;19.32;1
 Grainger;Lab Equipment;5YN05;AKRO-MILS Container,15-3/4 In. L,11-3/4 In. W,Gray;18.16;3
 Grainger;Lab Equipment;5W847;AKRO-MILS Shelf Bin,17-7/8 In. L,4 In. H,Blue;10.21;5
